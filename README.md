@@ -4,7 +4,8 @@ This is a Continuation of the AirBnB_clone_v2 which started for the AirBnB_clone
 In this version, we will be building on the previous versions but making it more dynamic and responive using the Flask framework and also build an API using the RESTful API.The RESTful API will be used to induce performance, scalability, simplicity, modifiability, visibility, portability, and reliability.
 
 
-#AirBnB_clone_v2
+# AirBnB_clone_v2
+
 ## AirBnB Clone - The Console
 
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
